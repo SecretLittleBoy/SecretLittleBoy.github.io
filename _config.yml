@@ -3,3 +3,11 @@ deploy:
   repo: https://github.com/secretlittleboy/secretlittleboy.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+
+theme: butterfly
+title: Yihao Long 's Blog
+subtitle: don't update often,haha🥳
+description: My blog here, welcome to visit!<br/> However, I prefer to use Feishu to record my learning notes.<br/> I will share the Feishu link here. 
+keywords: Yihao Long, Yihao, Long, Yihao Long's Blog
+author: Yihao Long
+language: zh-CN
