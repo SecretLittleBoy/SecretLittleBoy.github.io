@@ -1,7 +1,6 @@
 deploy:
   type: git
   repo: https://github.com/secretlittleboy/secretlittleboy.github.io
-  # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
 
 theme: butterfly
@@ -11,3 +10,9 @@ description: My blog here, welcome to visit!<br/> However, I prefer to use Feish
 keywords: Yihao Long, Yihao, Long, Yihao Long's Blog
 author: Yihao Long
 language: zh-CN
+
+search:
+  path: search.xml
+  field: all # post:文章范围、page:页面范围、all:覆盖所有
+  content: true # 内容是否包含每一篇文章的全部内容
+  template:  # ./search.xml 指定定制的XML模板

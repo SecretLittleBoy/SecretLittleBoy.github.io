@@ -19,4 +19,17 @@ highlight_copy: true # show copy button in code block
 
 social:
   fab fa-github: https://github.com/SecretLittleBoy || Github || "#hdhfbb"
-  fas fa-envelope: mailto:xxxxxx@gmail.com || Email || "#000000"
+  fas fa-envelope: mailto:2045918921@qq.com || Email || "#000000"
+
+#这个搜索系统我们不开启，没必要用这么麻烦的
+# Algolia search
+algolia_search:
+  enable: false
+  hits:
+    per_page: 6
+#开启本地搜索，即可我们正常的使用
+# Local search
+local_search:
+  enable: true
+  preload: false
+  CDN:
