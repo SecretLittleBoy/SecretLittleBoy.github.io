@@ -1,7 +1,13 @@
 nav:
-  logo: ./logo.jpg
+  logo: https://smms.app/image/vJDIKrQSu65W2oP
   display_title: true
   fixed: false # fixed navigation bar
+
+avatar:
+  img: https://smms.app/image/vJDIKrQSu65W2oP
+  effect: true # 头像会一直转圈
+
+top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 
 menu:
   首页: / || fas fa-home
