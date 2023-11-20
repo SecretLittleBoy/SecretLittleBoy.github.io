@@ -27,6 +27,7 @@ social:
   fab fa-github: https://github.com/SecretLittleBoy || Github || "#hdhfbb"
   fas fa-envelope: mailto:2045918921@qq.com || Email || "#000000"
 
+
 #这个搜索系统我们不开启，没必要用这么麻烦的
 # Algolia search
 algolia_search:
