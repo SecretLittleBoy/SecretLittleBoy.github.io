@@ -100,3 +100,7 @@ FeishuDoc list as follows:
 # [IDA](https://xn4zlkzg4p.feishu.cn/docx/IBTNdD1yJoIbUFxzwHRcf3m5nPb?from=from_copylink)
 <iframe src="https://xn4zlkzg4p.feishu.cn/docx/IBTNdD1yJoIbUFxzwHRcf3m5nPb?from=from_copylink" height="300px" width="100%" scrolling="auto" frameborder="0">
 </iframe>
+
+# [沸点阅读打卡](https://xn4zlkzg4p.feishu.cn/drive/folder/L58UfCpS9lvDWSdaCIfcYEMvn9b?from=from_copylink)
+<iframe src="https://xn4zlkzg4p.feishu.cn/drive/folder/L58UfCpS9lvDWSdaCIfcYEMvn9b?from=from_copylink" height="300px" width="100%" scrolling="auto" frameborder="0">
+</iframe>
